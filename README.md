@@ -25,3 +25,6 @@ How to Use
 1. Access the bigquery-public-data.thelook_ecommerce dataset in the Google Cloud Console.
 2. Run the queries found in lean_channel_performance.sql.
 3. Adjust the WHERE clauses for specific date ranges or status filters as required for agile pivoting.
+
+Result Part 1.jpeg
+Result Part 2.jpeg
