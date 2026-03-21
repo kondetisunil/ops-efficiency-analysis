@@ -26,5 +26,5 @@ How to Use
 2. Run the queries found in lean_channel_performance.sql.
 3. Adjust the WHERE clauses for specific date ranges or status filters as required for agile pivoting.
 
-Result Part 1.jpeg
-Result Part 2.jpeg
+![Analysis Results](Result Part 1.jpeg)
+![Analysis Results](Result Part 2.jpeg)
