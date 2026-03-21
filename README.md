@@ -20,6 +20,11 @@ Objective: Identify which sales sources (like Google Search, Direct Web, or App 
 Logic: We only count "Completed" orders. This ignores any "cancelled" or "returned" orders that would otherwise clutter our numbers and make us think we are more profitable than we actually are.
 Business Impact: Clearly shows which marketing channels bring in the most reliable revenue, helping us decide where to spend our budget.
 
+3. Bottom line performance (Profitability)
+Objective: Identify which product categories are the real "profit engines" versus those that are just busywork.
+Logic: Calculates the Actual Profit per item by subtracting the wholesale cost from the final sale price. It focuses on the money we actually keep after the supplier is paid.
+Business Impact: Prevents "unprofitable growth." It allows the business to pivot toward high-margin inventory and stop wasting marketing budget on items that don't move the needle for the bank account.
+
 How to Use
 
 1. Access the bigquery-public-data.thelook_ecommerce dataset in the Google Cloud Console.
